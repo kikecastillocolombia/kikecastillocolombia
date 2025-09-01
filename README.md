@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on: [Gym Control Project (FitManager)](https://github.com/fitmanager0)  
 - 🌱 Learning: [NestJS](https://nestjs.com/)  
-- 👨‍💻 All my projects: [GitHub Portfolio](https://github.com/kikecastillocolombia)  
+- 👨‍💻 All my projects: [GitHub Portfolio]([https://github.com/kikecastillocolombia](https://github.com/kikecastillocolombia?page=1&tab=repositories))  
 - 📫 Contact me: **enriquecastiyosoy@gmail.com**  
 - ⚡ Fun fact: *I like vegetarians and yogis 🧘‍♂️*  
 
