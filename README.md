@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Learning: [NestJS](https://nestjs.com/)  
-- 👨‍💻 All my projects: [GitHub Portfolio](https://github.com/kikecastillocolombia?page=1&tab=repositories/)  
+- 👨‍💻 [Portfolio](https://github.com/kikecastillocolombia?page=1&tab=repositories/) 
+- 🌱 Learning: [NestJS](https://nestjs.com/)   
 - 📫 Contact me: **enriquecastiyosoy@gmail.com**  
 - ⚡ Fun fact: *I like vegetarians and yogis 🧘‍♂️*  
 
