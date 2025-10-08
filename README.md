@@ -1,91 +1,53 @@
-<h1 align="center">Hi 👋, I'm Enrique Castillo</h1>
-<h3 align="center">💻 Software Developer | 🌎 From Colombia | 🚀 Passionate about technology & innovation</h3>
+# 👋 Hi, I'm Enrique Castillo  
+### 💻 Software Developer | 🌎 From Colombia | 🚀 Building for a decentralized future  
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me  
 
-- 👨‍💻 [Portfolio](https://portfolio-kikecastillocolombias-projects.vercel.app/index.html)
-- 🌱 Learning: [NestJS](https://nestjs.com/)   
-- 📫 Contact me: **enriquecastiyosoy@gmail.com**  
-- ⚡ Fun fact: *I like vegetarians and yogis 🧘‍♂️*  
+I’m a software developer passionate about **emerging technologies** and how they can empower people.  
+My current focus is on **Web3 development**, where I combine my interest in **social impact and digital freedom** to build transparent and accessible systems.  
 
----
-
-### 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/joseenriquecastillo/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
+- 🌱 Currently learning: **Solidity & Smart Contract Architecture**  
+- 🎯 Goal: **Develop and deploy my first dApp on Ethereum**  
+- ✨ Interests: Smart Contracts, DeFi, dApps  
+- 🧘‍♂️ Fun fact: I like vegetarians and yogis — balance matters in both life and code.  
+- 🌐 Portfolio: [enriquecastillodev.netlify.app](https://enriquecastillodev.netlify.app/)  
+- 📫 Contact: **enriquecastiyosoy@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+## 🕸 Web3 & Blockchain Stack  
+**Smart Contracts:** Solidity  
+**Blockchain:** Ethereum  
+**IDE:** Remix.ethereum.org  
 
-#### 👨‍🎨 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-</p>
+---
 
-#### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/>
-</p>
+## 💼 Core Tech Stack  
 
-#### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
-</p>
+**Frontend:** React, TypeScript, Tailwind CSS, Redux  
+**Backend:** Node.js, NestJS, Express, Python  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**DevOps & Tools:** Docker, Git, Postman, Google Cloud  
+**Design:** Figma, Adobe XD  
 
-#### ☁️ DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-</p>
+---
 
-#### 🎨 Design
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-</p>
+## 🎯 Vision in Web3  
 
-### 📊 Data Science & ETL
-<p>
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <!-- Numpy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <!-- Matplotlib -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-  <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100"/>
-  <!-- Jupyter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
-</p>
+I believe Web3 is more than technology — it’s a shift in how we **organize trust, ownership, and collaboration**.  
+My goal is to contribute to projects that use blockchain to promote **transparency, community empowerment, and digital sovereignty**.  
+
+> “The future of the web is not about control — it’s about connection, freedom, and shared innovation.”  
+
+---
+
+## 🤝 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/joseenriquecastillo/)  
+- [Email](mailto:enriquecastiyosoy@gmail.com)  
+
+---
+
+✨ *Let’s shape the decentralized future together.*
